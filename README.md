@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Agaloth (you can call me Aga), I'm a 21-year-old guy who's just starting to learn Java. My main focus right now is on creating Minecraft plugins, but I'm eager to explore other areas of programming as well in the future.
+I'm Agaloth (you can call me Aga), I'm a 23-year-old guy who's just starting to learn Java. My main focus right now is on creating Minecraft plugins, but I'm eager to explore other areas of programming as well in the future.
 
 ### 🌱 I'm currently learning...
 - Java fundamentals, such as variables, loops, methods, etc...
@@ -14,4 +14,4 @@ I currently have two published projects which are:
 - What I'm currently working on and how it's going
 
 ### 📫 How to reach me:
-- You can either add me on discord (Agaloth#4927) or [join my discord support server](https://discord.gg/yZtVRdqNJN)
+- You can either add me on discord (@Agaloth) or [join my discord support server](https://discord.gg/yZtVRdqNJN)
